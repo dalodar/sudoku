@@ -1,4 +1,4 @@
-// SUDIKU
+// SUDOKU
 
 // Fonction 1
 // parse (maligne, url); <- Fichier
